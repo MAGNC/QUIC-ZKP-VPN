@@ -1,0 +1,23 @@
+# Binaries
+/server
+/client
+*.exe
+*.dll
+
+# KeyLogs
+*.log
+ssl.log
+
+# Config
+*.conf
+*.yaml
+*.yml
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Go
+/vendor/
+go.work.sum
