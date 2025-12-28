@@ -121,11 +121,5 @@ Client: Sent IP Registration: IP:10.8.0.5
 
 ## Security Note
 
-This is a **Reference Implementation** for architectural demonstration.
--   Self-signed certificates are used for demonstration.
--   Key management assumes ephemeral keys for this demo.
--   In production, integrate with a proper PKI and persistent key storage.
-
+Please do not use it for production environments, it is only for research purposes.
 ---
-
-**QUIC-ZKP-VPN**: *Defy gravity, defy quantum.*
